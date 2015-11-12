@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.3",
-    "mobiledoc-html-renderer": ""
+    "mobiledoc-html-renderer": "^0.1.8"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
