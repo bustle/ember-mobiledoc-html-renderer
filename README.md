@@ -1,25 +1,8 @@
 # Ember-mobiledoc-html-renderer
 
-This README outlines the details of collaborating on this Ember addon.
+Provides [mobiledoc-html-renderer](https://github.com/bustlelabs/mobiledoc-html-renderer) to your ember app.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+* `ember install ember-mobiledoc-html-renderer`
+* In your code: `import Renderer from 'ember-mobiledoc-html-renderer`
